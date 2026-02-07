@@ -3,7 +3,7 @@
 <h1 align="center">Hi — I’m Damián Capdevila 👋</h1>
 
 <p align="center">
-  Technical Co-founder @ Sana Mujer · Software Engineer @ Siemens · Remote
+  Technical Co-founder @ <a href=https://www.sanamujer.com target=_blank rel=noopener noreferrer>Sana Mujer</a> · Software Engineer @ Siemens · Remote
 </p>
 
 ---
